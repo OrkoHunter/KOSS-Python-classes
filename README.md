@@ -1,6 +1,7 @@
 # KOSS Python classes
 Introduction to Programming with Python (and basic Open Source Software Development principles)
 
+
 Installation and Environment setup
 ----------------------------------
 
@@ -12,3 +13,7 @@ It is highly recommended for beginners to install Anaconda. If you don't want to
     - Run this script using `bash`. See the [installation page](https://www.continuum.io/downloads)
   - macOS: https://repo.continuum.io/archive/Anaconda3-4.3.1-MacOSX-x86_64.pkg
 
+
+Target students
+---------------
+The initial classes are aimed for beginners, people who do not have any programming experience as well as people who have basic knowledge of C/C++. If you already have tried Python before, the first few classes are not good for you (But you can come and help tutor :) !)
