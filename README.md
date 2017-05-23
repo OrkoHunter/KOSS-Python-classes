@@ -14,6 +14,13 @@ It is highly recommended for beginners to install Anaconda. If you don't want to
   - macOS: https://repo.continuum.io/archive/Anaconda3-4.3.1-MacOSX-x86_64.pkg
 
 
+If you do not have notebook or python setup in your compute
+1. Go to https://notebooks.azure.com
+1. Sign in, create a library
+2. Create a new notebook in the library
+3. In language, choose Python 3.6
+4. Start the notebook!
+
 Target students
 ---------------
 The initial classes are aimed for beginners, people who do not have any programming experience as well as people who have basic knowledge of C/C++. If you already have tried Python before, the first few classes are not good for you (But you can come and help tutor :) !)
